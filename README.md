@@ -27,8 +27,8 @@ Run the program.
 
 ## PROGRAM:
 ```
-Devloped by: SRINIDHI SENTHIL
-reference no: 22001408
+Devloped by: K.NIVETHA
+reference no: 22009186
 
 with open('word_count.txt','r') as f1:
     with open('word_file.txt','a') as f2:
