@@ -27,13 +27,16 @@ Run the program.
 
 ## PROGRAM:
 ```
-Devloped by: K.NIVETHA
-reference no: 22009186
+Developed by: K.NIVETHA
 
-with open('word_count.txt','r') as f1:
-    with open('word_file.txt','a') as f2:
-        for line in f1:
-            f2.write(line)
+Reference Number:22009186
+
+with open('f1.txt','r')as firstfile:
+    with open('f2.txt','a')as secondfile:
+        for line in firstfile:
+            secondfile.write(line)
+
+
 ```            
 ### OUTPUT:
 
