@@ -40,6 +40,7 @@ with open('f1.txt','r')as firstfile:
 ```            
 ### OUTPUT:
 
+![cop](https://user-images.githubusercontent.com/119559844/215276227-67831a3b-6d25-44c3-b444-f2140fdbb83c.png)
 
 
 ## RESULT:
