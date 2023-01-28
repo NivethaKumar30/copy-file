@@ -17,7 +17,7 @@ Step 3:
 In other file1.txt file read the file.txt using .read() build in function.
 
 Step 4:
-Next ope file1.txt in write mode.
+Next open file1.txt in write mode.
 
 Step 5:
 Copy file.txt using copy() funtion.
